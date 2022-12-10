@@ -44,7 +44,8 @@ class TestDemoTest {
 				arguments(1, -1, 0, true),
 				arguments(4, -4, 0, true),
 				arguments(2, -3, -1, true),
-				arguments(3, -4, -1, true)
+				arguments(3, -4, -1, true),
+				arguments(14, -2, 12, true)
 				
 				);
 	}
